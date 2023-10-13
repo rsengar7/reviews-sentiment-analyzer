@@ -24,7 +24,7 @@ This text can be tagged with the following categories:
 2. Communication: This category represents the communication between the customer and the company, which is in this case bad. 
 3. Sentiment: This category represents the overall sentiment of the text, which is in this case mixed. 
  
-# Here are some additional benefits of using category tagging in sentiment analysis for this example: 
+### Here are some additional benefits of using category tagging in sentiment analysis for this example: 
 More informative results: Category tagging can make sentiment analysis more informative by providing insights into the reasons for a particular sentiment. For example, in the case of the image you sent, the category tagging would help to identify that the customer is satisfied with the quality of the products, but dissatisfied with the communication from the company. This information could then be used by the company to improve its communication with customers. 
 Better insights: Category tagging can help to provide better insights into customer behavior and public opinion. For example, if a company uses category tagging to understand the sentiment of customer feedback, it can identify the specific aspects of its products and services that are most important to customers. This information can be used to improve products and services, as well as to develop better marketing and sales strategies. 
 Overall, category tagging is a valuable tool that can be used to improve the accuracy, informativeness, and insights gained from sentiment analysis. 
